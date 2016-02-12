@@ -1,0 +1,252 @@
+/*
+Theme Name: Divi Child
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Version: 1.0.0
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Author: Jafet
+Author URI: http://www.elegantthemes.com
+Template: Divi
+License: GNU General Public License v2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+/* ****************************
+ *   EMPLOYEES PAGE
+ ****************************** */
+
+/* Make all emloyee divs appear in same size */
+.et_pb_team_member {
+    min-height: 360px;
+}
+
+/* Add employee hover effect */
+#AnnaC:hover:before {
+	background: url('../../uploads/2015/09/AnnaC.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#AnnaL:hover:before {
+	background: url('../../uploads/2015/09/AnnaL.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#BjornG:hover:before {
+	background: url('../../uploads/2015/09/BjornG.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#BjornV:hover:before {
+	background: url('../../uploads/2015/09/BjornV.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#DadiA:hover:before {
+	background: url('../../uploads/2015/09/DadiA.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#DadiJ:hover:before {
+	background: url('../../uploads/2015/09/DadiJ.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#DadiF:hover:before {
+	background: url('../../uploads/2015/09/DadiF.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Doddi:hover:before {
+	background: url('../../uploads/2015/09/Doddi.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Einar:hover:before {
+	background: url('../../uploads/2015/09/Einar.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Elva:hover:before {
+	background: url('../../uploads/2015/09/Elva.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Finnur:hover:before {
+	background: url('../../uploads/2015/09/Finnur.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Fridjon:hover:before {
+	background: url('../../uploads/2015/09/Fridjon.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Gudjon:hover:before {
+	background: url('../../uploads/2015/09/Gudjon.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Gudmundur:hover:before {
+	background: url('../../uploads/2015/09/Gudmundur.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Gudni:hover:before {
+	background: url('../../uploads/2015/09/Gudni.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Haukur:hover:before {
+	background: url('../../uploads/2015/09/Haukur.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Helena:hover:before {
+	background: url('../../uploads/2015/09/Helena.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Hjordis:hover:before {
+	background: url('../../uploads/2015/09/Hjordis.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Hrafnkell:hover:before {
+	background: url('../../uploads/2015/09/Hrafnkell.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Ingibjorg:hover:before {
+	background: url('../../uploads/2015/09/Ingibjorg.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Jafet:hover:before {
+	background: url('../../uploads/2015/09/Jafet.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Julius:hover:before {
+	background: url('../../uploads/2015/09/Julius.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#JuliusS:hover:before {
+	background: url('../../uploads/2015/09/JuliusS.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Kristin:hover:before {
+	background: url('../../uploads/2015/09/Kristin.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Pall:hover:before {
+	background: url('../../uploads/2015/09/Pall.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Rannveig:hover:before {
+	background: url('../../uploads/2015/09/Rannveig.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Robert:hover:before {
+	background: url('../../uploads/2015/09/Robert.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Robert2:hover:before {
+	background: url('../../uploads/2015/09/Robert2.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Sigrun:hover:before {
+	background: url('../../uploads/2015/09/Sigrun.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Tryggvi:hover:before {
+	background: url('../../uploads/2015/09/Tryggvi.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+#Alan:hover:before {
+	background: url('../../uploads/2015/09/Alan.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Kim:hover:before {
+	background: url('../../uploads/2015/09/Kim.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Oli:hover:before {
+	background: url('../../uploads/2015/09/Oli.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Palmi:hover:before {
+	background: url('../../uploads/2015/09/Palmi.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Sigurbjorg:hover:before {
+	background: url('../../uploads/2015/09/Sigurbjorg.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Melissa:hover:before {
+	background: url('../../uploads/2016/02/melissa.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Neil:hover:before {
+	background: url('../../uploads/2016/02/neil.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Laetitia:hover:before {
+	background: url('../../uploads/2015/09/Laetitia.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+
+/* 10 */
+#Hordur:hover:before {
+	background: url('../../uploads/2015/10/Hordur.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Elena:hover:before {
+	background: url('../../uploads/2015/10/Elena.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Helga:hover:before {
+	background: url('../../uploads/2015/10/Helga.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Halldor:hover:before {
+	background: url('../../uploads/2015/10/Halldor.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+/* 11 */
+#Christian:hover:before {
+	background: url('../../uploads/2015/11/Christian.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Jeremy:hover:before {
+	background: url('../../uploads/2015/11/Jeremy.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Gaukur:hover:before {
+	background: url('../../uploads/2015/11/Gaukur.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Jon:hover:before {
+	background: url('../../uploads/2015/11/Jon.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Keith:hover:before {
+	background: url('../../uploads/2015/11/Keith.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+/* future */
+/*#Agnes:hover:before {
+	background: url('../../uploads/2015/09/Agnes.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Arndis:hover:before {
+	background: url('../../uploads/2015/09/Arndis.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}*/
+
+
+/*@media all and (min-width: 981px) {
+    .category .post a img {
+        width: 130px;
+        height: auto;
+    }
+}*/
+
+
+
+
+/* ****************************
+ *   DIVI THEME IMPROVEMENTS
+ ****************************** */
+
+/* Make featured image (in category) smaller
+ * + fix image streach when browser window is < 890px
+*/
+.category .post a img {
+    height: auto;
+    float: left;
+    width: 140px;
+    max-width: 100%;
+}
