@@ -162,14 +162,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2015/09/Sigurbjorg.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
-#Melissa:hover:before {
-	background: url('../../uploads/2016/02/melissa.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
-#Neil:hover:before {
-	background: url('../../uploads/2016/02/neil.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
 #Laetitia:hover:before {
 	background: url('../../uploads/2015/09/Laetitia.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
@@ -215,6 +207,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2015/11/Keith.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
+
+/* 2016 feb */
+#Melissa:hover:before {
+	background: url('../../uploads/2016/02/melissa.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Neil:hover:before {
+	background: url('../../uploads/2016/02/neil.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
 
 /* future */
 /*#Agnes:hover:before {
