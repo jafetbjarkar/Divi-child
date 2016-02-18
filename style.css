@@ -247,7 +247,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 /* Make featured image (in category) smaller
  * + fix image streach when browser window is < 890px
 */
-.entry-featured-image-url img {
+.page .entry-featured-image-url img {
     height: auto;
     float: left;
     width: 140px;
