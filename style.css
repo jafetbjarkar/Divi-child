@@ -225,15 +225,33 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 }
 
 
-/* future */
-/*#Agnes:hover:before {
-	background: url('../../uploads/2015/09/Agnes.jpg') bottom left no-repeat;
+/* 2016 may */
+#Arndis:hover:before {
+	background: url('../../uploads/2016/05/Arndis.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
-#Arndis:hover:before {
-	background: url('../../uploads/2015/09/Arndis.jpg') bottom left no-repeat;
+#Runar:hover:before {
+	background: url('../../uploads/2016/05/Runar.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
-}*/
+}
+#Helena:hover:before {
+	background: url('../../uploads/2016/05/Helena.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+/* 2016 oct */
+#Sturla:hover:before {
+	background: url('../../uploads/2016/10/Sturla.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Gulli:hover:before {
+	background: url('../../uploads/2016/10/Gulli.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Agnes:hover:before {
+	background: url('../../uploads/2016/10/Agnes.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
 
 
 /*@media all and (min-width: 981px) {
