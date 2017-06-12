@@ -73,10 +73,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2015/09/Gudjon.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
-#Gudmundur:hover:before {
-	background: url('../../uploads/2015/09/Gudmundur.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
 #Gudni:hover:before {
 	background: url('../../uploads/2015/09/Gudni.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
@@ -105,10 +101,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2015/09/Jafet.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
-#Julius:hover:before {
-	background: url('../../uploads/2015/09/Julius.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
 #JuliusS:hover:before {
 	background: url('../../uploads/2015/09/JuliusS.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
@@ -123,14 +115,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 }
 #Rannveig:hover:before {
 	background: url('../../uploads/2015/09/Rannveig.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
-#Robert:hover:before {
-	background: url('../../uploads/2015/09/Robert.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
-#Robert2:hover:before {
-	background: url('../../uploads/2015/09/Robert2.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
 #Sigrun:hover:before {
@@ -150,10 +134,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2015/09/Kim.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
-#Oli:hover:before {
-	background: url('../../uploads/2015/09/Oli.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
 #Palmi:hover:before {
 	background: url('../../uploads/2015/09/Palmi.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
@@ -169,10 +149,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 /* 10 */
-#Hordur:hover:before {
-	background: url('../../uploads/2015/10/Hordur.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
 #Elena:hover:before {
 	background: url('../../uploads/2015/10/Elena.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
@@ -254,14 +230,42 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 }
 
 
+
+
+/* 2017 mars */
+#Gudrun:hover:before {
+	background: url('../../uploads/2017/03/Gudrun.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Tomas:hover:before {
+	background: url('../../uploads/2017/03/Tomas.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#GudmundurK:hover:before {
+	background: url('../../uploads/2017/03/GudmundurK.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Jenny:hover:before {
+	background: url('../../uploads/2017/03/Jenny.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Leszek:hover:before {
+	background: url('../../uploads/2017/03/Leszek.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Thierry:hover:before {
+	background: url('../../uploads/2017/03/Thierry.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+
+
 /*@media all and (min-width: 981px) {
     .category .post a img {
         width: 130px;
         height: auto;
     }
 }*/
-
-
 
 
 /* ****************************
