@@ -259,6 +259,22 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 }
 
 
+/* 2017 juni */
+#Fanndis:hover:before {
+	background: url('../../uploads/2017/06/Fanndis.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Rebekka:hover:before {
+	background: url('../../uploads/2017/06/Rebekka.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Gunnar:hover:before {
+	background: url('../../uploads/2017/06/Gunnar.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+
+
 
 /*@media all and (min-width: 981px) {
     .category .post a img {
