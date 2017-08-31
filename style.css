@@ -273,7 +273,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background-size: 200px 400px;
 }
 
-
+/* 2017 august */
+#Elisa:hover:before {
+	background: url('../../uploads/2017/08/Elisa.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
 
 
 /*@media all and (min-width: 981px) {
