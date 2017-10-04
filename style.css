@@ -273,9 +273,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background-size: 200px 400px;
 }
 
-/* 2017 august */
+/* 2017 sep */
 #Elisa:hover:before {
 	background: url('../../uploads/2017/09/Elisa.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+/* 2017 oct */
+#Saevar:hover:before {
+	background: url('../../uploads/2017/10/Saevar.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#BjornO:hover:before {
+	background: url('../../uploads/2017/10/BjornO.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
 
