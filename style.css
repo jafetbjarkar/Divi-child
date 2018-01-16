@@ -304,6 +304,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 }
 
 
+/* 2018 jan */
+#Helgi:hover:before {
+	background: url('../../uploads/2018/01/Helgi.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Jesper:hover:before {
+	background: url('../../uploads/2018/01/Jesper.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
 
 /*@media all and (min-width: 981px) {
     .category .post a img {
