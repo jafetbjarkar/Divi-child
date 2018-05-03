@@ -314,13 +314,24 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background-size: 200px 400px;
 }
 #Petur:hover:before {
-	background: url('../../uploads/2018/01/Petur.jpg') bottom left no-repeat;
+	background: url('../../uploads/2018/02/Petur.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
 #Julie:hover:before {
-	background: url('../../uploads/2018/01/Julie.jpg') bottom left no-repeat;
+	background: url('../../uploads/2018/02/Julie.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
+
+/* 2018 mai */
+#Asta:hover:before {
+	background: url('../../uploads/2018/04/Asta.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Johann:hover:before {
+	background: url('../../uploads/2018/04/Johann.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
 
 
 /*@media all and (min-width: 981px) {
