@@ -333,6 +333,34 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 }
 
 
+/* 2018 june */
+#Astros:hover:before {
+	background: url('../../uploads/2018/06/Astros.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Petter:hover:before {
+	background: url('../../uploads/2018/06/Petter.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Thomas:hover:before {
+	background: url('../../uploads/2018/06/Thomas.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Henry:hover:before {
+	background: url('../../uploads/2018/06/Henry.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Iris:hover:before {
+	background: url('../../uploads/2018/06/Iris.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Jafet2:hover:before {
+	background: url('../../uploads/2018/06/Jafet2.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+
+
 
 /*@media all and (min-width: 981px) {
     .category .post a img {
