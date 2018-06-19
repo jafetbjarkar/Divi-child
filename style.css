@@ -358,6 +358,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2018/06/Jafet2.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
+#Eyrun:hover:before {
+	background: url('../../uploads/2018/06/Eyrun.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
 
 
 
