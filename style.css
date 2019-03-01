@@ -117,10 +117,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2015/09/Rannveig.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
-#Sigrun:hover:before {
-	background: url('../../uploads/2015/09/Sigrun.jpg') bottom left no-repeat;
-	background-size: 200px 400px;
-}
 #Tryggvi:hover:before {
 	background: url('../../uploads/2015/09/Tryggvi.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
@@ -395,6 +391,25 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background-size: 200px 400px;
 }
 
+
+#Torstein:hover:before {
+	background: url('../../uploads/2019/02/torstein3.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+
+/* 2019 mar */
+#Sigrun:hover:before {
+	background: url('../../uploads/2019/03/Sigrun.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Agust:hover:before {
+	background: url('../../uploads/2019/03/Agust.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
+#Brynja:hover:before {
+	background: url('../../uploads/2019/03/Brynja.jpg') bottom left no-repeat;
+	background-size: 200px 400px;
+}
 
 /*@media all and (min-width: 981px) {
     .category .post a img {
