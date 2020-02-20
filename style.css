@@ -410,25 +410,3 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background: url('../../uploads/2019/03/Brynja.jpg') bottom left no-repeat;
 	background-size: 200px 400px;
 }
-
-/*@media all and (min-width: 981px) {
-    .category .post a img {
-        width: 130px;
-        height: auto;
-    }
-}*/
-
-
-/* ****************************
- *   DIVI THEME IMPROVEMENTS
- ****************************** */
-
-/* Make featured image (in category) smaller
- * + fix image streach when browser window is < 890px
-*/
-.page .entry-featured-image-url img {
-    height: auto;
-    float: left;
-    width: 140px;
-    max-width: 100%;
-}
